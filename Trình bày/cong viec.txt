@@ -1,0 +1,11 @@
+Mô tả mô hình dữ liệu của hệ thống
+
+I. Chức năng đăng nhập cho quản lý
+II. Chức năng SetImage cho Button
+
+Gồm:
+1. Mô tả yêu cầu chức năng 1,2
+2. Mô tả thiết kế chức năng 1,2
+3. Mã nguồn chức năng 1,2: Kiểm tra module
+4. Kiểm tra hộp đen chức năng 1,2
+5. Kiểm tra hộp trắng chức năng 1,2
